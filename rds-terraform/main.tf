@@ -54,7 +54,7 @@ variable "db_username" {
 
 variable "db_password" {
   type = string
-  default = "Daboipoly1"
+  default = "mypassword"
 }
 
 # RDS mysql

@@ -25,7 +25,6 @@ Stay within the root repository directory and run
 ```
 ./teardown.sh
 ```
-
 # Infrastructure Design
 ## Components
 ### EC2
